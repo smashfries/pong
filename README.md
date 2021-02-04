@@ -2,7 +2,7 @@
 Created with LÖVE and Lua, this is an arcade-style, two-player game.
 
 ## Downloads
-Download the application and play this game on your computer from the respective links below for your operating system. Other downloads are coming soon... Until then, you can download [LÖVE](https://love2d.org/) and this codebase and try it out on your own. Refer to running the application below.
+Download the application and play this game on your computer from the respective links below for your operating system. Other downloads are coming soon... Until then, you can download [LÖVE](https://love2d.org/) and this codebase, and try it out on your own. Refer to running the application below.
 
 [Windows (64-bit) - Zipped Executable](https://storage.googleapis.com/www.adityaone.com/pong.zip)
 Download, unzip the file, and run the executable.
