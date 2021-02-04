@@ -4,7 +4,8 @@ Created with LÖVE and Lua, this is an arcade-style, two-player game.
 ## Downloads
 Download the application and play this game on your computer from the respective links below for your operating system. Other downloads are coming soon... Until then, you can download [LÖVE](https://love2d.org/) and this codebase and try it out on your own. Refer to running the application below.
 
-[Windows (64-bit)](https://storage.googleapis.com/www.adityaone.com/pong.exe)
+[Windows (64-bit) - Zipped Executable](https://storage.googleapis.com/www.adityaone.com/pong.zip)
+Download, unzip the file, and run the executable.
 
 ## Code walkthrough
 This game uses *push.lua* from *https://github.com/ulydev/push* to handle resolution. It helps create the arcade-style, retro look, handles scaling in different display resolutions, and maintains the 16:9 aspect ratio.
