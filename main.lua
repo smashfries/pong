@@ -22,8 +22,8 @@ function love.load()
         ['paddle_hit'] = love.audio.newSource('audio/paddle_hit.wav', 'static')
     }
 
-    smallFont = love.graphics.newFont('font.ttf', 8)
-    scoreFont = love.graphics.newFont('font.ttf', 32)
+    smallFont = love.graphics.newFont('font.TTF', 8)
+    scoreFont = love.graphics.newFont('font.TTF', 32)
 
     player1Score = 0
     player2Score = 0
